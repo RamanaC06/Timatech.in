@@ -329,7 +329,7 @@ const Footers: React.FC<FooterProps> = ({ className }) => {
             </div>
             
             <p className="text-gray-500 text-sm">
-              © {currentYear} TIMA Integrated Technologies Pvt Lmt™. All rights reserved.
+              
               <span className="ml-2 inline-flex items-center text-pink-500">
                 Made with <FaHeart className="mx-1 animate-pulse" /> in India
               </span>
