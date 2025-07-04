@@ -130,7 +130,7 @@ const Hero: React.FC<HeroProps> = () => {
                 transition={{ duration: 0.8, delay: 0.4 }}
                 className="text-4xl font-bold tracking-tight text-indigo-950 sm:text-5xl md:text-6xl"
               >
-                TIMA Integrated <span className="text-indigo-600">Technologies Pvt Ltv</span>
+                TIMA  <span className="text-indigo-600"></span>
               </motion.h1>
               
               <motion.div
